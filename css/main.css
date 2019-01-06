@@ -24,6 +24,17 @@ body, html {
 	font-family: sans-serif;
 }
 
+#modal-image {
+  margin: 0 auto;
+}
+#modal-p {
+  text-align: left;
+  text-justify: auto;
+}
+#modal-h {
+  text-align: left;
+ }
+
 /* ------------------------------------ */
 a {
 	margin: 0px;
