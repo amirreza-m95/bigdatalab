@@ -269,19 +269,19 @@ tbody tr:hover {
     content: "Date";
   }
   table tbody tr td:nth-child(2):before {
-    content: "Order ID";
+    content: "Order";
   }
   table tbody tr td:nth-child(3):before {
-    content: "Name";
+    content: "Presenter";
   }
   table tbody tr td:nth-child(4):before {
-    content: "Price";
+    content: "topic";
   }
   table tbody tr td:nth-child(5):before {
-    content: "Quantity";
+    content: "Detail";
   }
   table tbody tr td:nth-child(6):before {
-    content: "Total";
+    content: "files";
   }
 
   .column4,
