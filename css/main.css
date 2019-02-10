@@ -27,6 +27,14 @@ body, html {
 .modal-image {
   margin: 0 auto;
 }
+#main_header {
+  font-family: 'Courier', arial;
+  text-align: center;
+  font-style: italic;
+  font-weight: 900;
+  font-size: xx-large;
+  margin-bottom: 50px
+}
 #modal-p {
   text-align: left;
   text-justify: auto;
